@@ -28,11 +28,6 @@ turboget [options]
 - `curl` for installation
 - Sudo privileges (for installation)
 
-## Usage
-
-```bash
-turboget --help
-```
 
 ## Contributing
 
